@@ -1,7 +1,11 @@
 🚀 Tarea1: Elementos de Interfaz de Usuario
+
 Esta primer tarea es una aplcación de demostración desarrollada en Android con Jetpack Compose y Kotlin. Su propósito es explorar y mostrar el uso práctico de diferentes elementos de la interfaz de usuario (UI) de Android de un manera interactiva.
+
 🌟 Características Principales
 La aplicación Tarea1 presenta una MainActivity principal que actúa como un contenedor para diversas secciones, cada una enfocada en un tipo específico de componente de UI. La navegación entre estas secciones se realiza a través de un menú intuitivo.
+
+
 Estructura de la Aplicación
 La aplicación está organizada en una Activity principal que simula una navegación entre 5 "pantallas" (composables en Jetpack Compose), cada una explicando y demostrando un elemento de interfaz diferente:
 Text Fields (EditText): Campos de entrada de texto.
@@ -9,6 +13,8 @@ Botones (Button, ImageButton): Elementos interactivos para desencadenar acciones
 Elementos de Selección (CheckBox, RadioButton, Switch): Componentes para que el usuario elija opciones.
 Listas (RecyclerView o ListView simulado con LazyColumn): Para mostrar colecciones de datos.
 Elementos de Información (TextView, ImageView, ProgressBar): Para presentar datos estáticos, imágenes o el progreso de tareas.
+
+
 Navegación
 El proyecto incluye:
 Un menú de navegación principal (HomeScreen) que permite acceder a cada una de las secciones de demostración.
@@ -19,6 +25,7 @@ Cada pantalla de demostración está diseñada para ser educativa e interactiva,
 🎨 Ejemplos visuales: Implementaciones funcionales del elemento.
 💡 Explicación breve: Un resumen conciso de su propósito (máximo 2-3 líneas).
 ⚡ Demostración interactiva: Los usuarios pueden interactuar directamente con el componente para entender su funcionamiento.
+
 
 🛠️ Tecnologías Utilizadas
 Android Studio
